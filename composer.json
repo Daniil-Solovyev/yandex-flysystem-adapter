@@ -1,0 +1,14 @@
+{
+  "name": "dws/yandex-flysystem-adapter",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "dws",
+      "email": "daniyar-solovev@yandex.ru"
+    }
+  ],
+  "require": {
+  }
+}
