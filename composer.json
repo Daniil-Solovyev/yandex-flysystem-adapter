@@ -11,6 +11,6 @@
     }
   ],
   "require": {
-    "league/flysystem": "~3.0.0"
+    "arhitector/yandex": "~2.0"
   }
 }
